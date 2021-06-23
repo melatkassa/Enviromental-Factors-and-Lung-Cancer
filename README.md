@@ -1,2 +1,6 @@
 # Enviromental-Factors-and-Lung-Cancer
 Examining the Relationship of Lung cancer Incidences and Air Quality Measures in California
+
+Cancer is the second leading cause of mortality in the United States. Over 600,000 people are projected to die from cancer in the U.S. in 2020. Furthermore, the Agency for Healthcare Research and Quality estimated that the total of all healthcare costs for cancer in the United States in 2015 were 80.2 billion dollars. Cancer care costs are expected to rise to as high as 173 billion dollars by 2020. Cancer affects the quality of life, community decisions and choices of diagnosed individuals and their families. Socially, the shared perspective of any disease is to prevent it rather than treat it. Concisely identifying the environmental factors could aid in reducing future cases and influence quality of life in the United States.
+
+Existing evidence from epidemiologic studies suggest that poor air quality is associated with increased risk of mortality for various types of cancer. Our group wanted to understand the relationship between this environmental factor and lung cancer. Understanding the relationship between lung cancer and the environment could help identify variables that contribute to higher lung cancer rates.
